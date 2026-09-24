@@ -1,18 +1,18 @@
 # Orbital Foundry 🚀
 
-A 3D spaceflight sandbox running entirely in the browser with Three.js.
+A 3D spaceflight sandbox running in the browser with Three.js.
 
-Build a spacecraft, launch it, get into orbit, plan maneuvers, dock with other spacecraft, and explore different planets.
+Build spacecraft, launch into orbit, plan maneuvers, dock, and explore different planets.
 
 ## Play
 
-👉 **[Play it here](https://9950x3d.github.io/spaceflight-play/)**
+👉 **[Play Orbital Foundry](https://9950x3d.github.io/spaceflight-play/)**
 
 No download or installation needed.
 
 ## Source
 
-The actual project/source is here:
+The main project and source code are here:
 
 **[3DSpaceflightHTML](https://github.com/9950x3d/3DSpaceflightHTML)**
 
@@ -21,13 +21,24 @@ This repo is just for hosting the playable version.
 ## What's in it?
 
 * Spacecraft building
+* 3D flight physics
 * Orbital mechanics
 * Maneuver nodes
 * Δv / TWR calculations
 * Docking
-* Procedural planets
-* 3D physics
+* Procedural planets and star systems
+* Exploration
 
-It's still a work in progress, so expect bugs and occasionally very questionable physics.
+## Origins & Credits
 
-If you find something broken or have an idea, feel free to let me know.
+Orbital Foundry started as a fork of **[CatPrinceHQ2's SpaceflightSimulatorInHTML](https://github.com/CatPrinceHQ2/SpaceflightSimulatorInHTML)**.
+
+Since then, the project has grown quite a bit, with the renderer becoming fully 3D and much of the simulation and game logic being expanded, replaced, or rewritten.
+
+Big thanks to **CatPrinceHQ2** for the original project and the starting point.
+
+## Status
+
+Still a work in progress. Expect bugs, unfinished stuff, and occasional weird physics.
+
+Feedback and bug reports are welcome.
