@@ -31,11 +31,15 @@ This repo is just for hosting the playable version.
 
 ## Origins & Credits
 
-Orbital Foundry started as a fork of **[CatPrinceHQ2's SpaceflightSimulatorInHTML](https://github.com/CatPrinceHQ2/SpaceflightSimulatorInHTML)**.
+Orbital Foundry originally started as an independent project.
 
-Since then, the project has grown quite a bit, with the renderer becoming fully 3D and much of the simulation and game logic being expanded, replaced, or rewritten.
+During development, some code from **[CatPrinceHQ2's SpaceflightSimulatorInHTML](https://github.com/CatPrinceHQ2/SpaceflightSimulatorInHTML)** was incorporated and modified. After discussion with the original developer, the main repository was published as a fork at their request.
 
-Big thanks to **CatPrinceHQ2** for the original project and the starting point.
+So while GitHub technically identifies the main repository as a fork, Orbital Foundry itself did not originally begin as a fork of SpaceflightSimulatorInHTML.
+
+Since then, the project has continued to grow, with the renderer becoming fully 3D and much of the simulation and game logic being expanded, replaced, or rewritten.
+
+Big thanks to **CatPrinceHQ2** for their original project and contributions.
 
 ## Status
 
